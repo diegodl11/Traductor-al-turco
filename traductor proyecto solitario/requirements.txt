@@ -1,0 +1,6 @@
+tk
+SpeechRecognition
+pyaudio
+google-generativeai
+python-dotenv
+gTTS
