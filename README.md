@@ -1,4 +1,5 @@
 # Voice Translator Program
+![image](https://github.com/user-attachments/assets/f1f17809-f01a-491a-8156-95d748e4d52d)
 
 ## Description
 This code is a program that allows a person to speak into a microphone, transcribe their voice to text, translate the text to Turkish, generate a witty response, and then read that response aloud. Additionally, it displays both the original text and the generated response in an interactive window. Here’s a step-by-step explanation without technical jargon:
@@ -69,3 +70,7 @@ To run this file in Python, follow these steps:
 - Internet access is needed to use the Google API.
 - A functional microphone is required for the program to recognize audio.
 
+
+If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
